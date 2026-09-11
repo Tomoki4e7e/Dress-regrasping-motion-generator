@@ -1,0 +1,16 @@
+{
+  "threshold": 1.4532600235939022,
+  "synthetic_event": {
+    "true_positive": 50,
+    "false_positive": 1,
+    "true_negative": 449,
+    "false_negative": 0,
+    "recall": 1.0,
+    "false_positive_rate": 0.0022222222222222222,
+    "precision": 0.9803921568627451
+  },
+  "heldout_nominal_false_positive_rate": 0.006,
+  "n_calibration": 500,
+  "n_evaluation": 500,
+  "limitation": "Synthetic signal injection validates the detector implementation only; labelled robot trials are required for snag/slip claims."
+}

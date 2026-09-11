@@ -1,0 +1,470 @@
+{
+  "episodes": [
+    {
+      "episode": "2026-01-13-14-42-36_30deg",
+      "split": "train",
+      "requested_window": [
+        10,
+        252
+      ],
+      "expected_frames": 242,
+      "csv_rows": {
+        "angle.csv": 265,
+        "torque.csv": 265,
+        "external_torque.csv": 265
+      },
+      "csv_widths": {
+        "angle.csv": [
+          18
+        ],
+        "torque.csv": [
+          18
+        ],
+        "external_torque.csv": [
+          18
+        ]
+      },
+      "visual_frames": {
+        "rgb": 266,
+        "sock_mask": 265,
+        "leg_mask": 0,
+        "camera_depth": 265,
+        "sock_depth": 265,
+        "leg_depth": 0
+      },
+      "features_present": false,
+      "errors": [
+        "depth_mask/leg_depth: 0 frames do not cover requested end=252"
+      ],
+      "warnings": [
+        "features incomplete: ['coverage.npy', 'opening_norm.npy', 'heel_norm.npy', 'toe_norm.npy', 'foot_length.npy', 'features_ok.npy']",
+        "touch.csv absent; external_torque.csv is the tactile proxy"
+      ],
+      "usable_for_residual": false
+    },
+    {
+      "episode": "2026-01-13-15-27-59_30deg",
+      "split": "train",
+      "requested_window": [
+        0,
+        242
+      ],
+      "expected_frames": 242,
+      "csv_rows": {
+        "angle.csv": 247,
+        "torque.csv": 247,
+        "external_torque.csv": 247
+      },
+      "csv_widths": {
+        "angle.csv": [
+          18
+        ],
+        "torque.csv": [
+          18
+        ],
+        "external_torque.csv": [
+          18
+        ]
+      },
+      "visual_frames": {
+        "rgb": 247,
+        "sock_mask": 246,
+        "leg_mask": 0,
+        "camera_depth": 246,
+        "sock_depth": 246,
+        "leg_depth": 0
+      },
+      "features_present": false,
+      "errors": [
+        "depth_mask/leg_depth: 0 frames do not cover requested end=242"
+      ],
+      "warnings": [
+        "features incomplete: ['coverage.npy', 'opening_norm.npy', 'heel_norm.npy', 'toe_norm.npy', 'foot_length.npy', 'features_ok.npy']",
+        "touch.csv absent; external_torque.csv is the tactile proxy"
+      ],
+      "usable_for_residual": false
+    },
+    {
+      "episode": "2026-01-13-15-52-37_30deg",
+      "split": "train",
+      "requested_window": [
+        10,
+        252
+      ],
+      "expected_frames": 242,
+      "csv_rows": {
+        "angle.csv": 254,
+        "torque.csv": 254,
+        "external_torque.csv": 254
+      },
+      "csv_widths": {
+        "angle.csv": [
+          18
+        ],
+        "torque.csv": [
+          18
+        ],
+        "external_torque.csv": [
+          18
+        ]
+      },
+      "visual_frames": {
+        "rgb": 254,
+        "sock_mask": 254,
+        "leg_mask": 0,
+        "camera_depth": 254,
+        "sock_depth": 254,
+        "leg_depth": 0
+      },
+      "features_present": false,
+      "errors": [
+        "depth_mask/leg_depth: 0 frames do not cover requested end=252"
+      ],
+      "warnings": [
+        "features incomplete: ['coverage.npy', 'opening_norm.npy', 'heel_norm.npy', 'toe_norm.npy', 'foot_length.npy', 'features_ok.npy']",
+        "touch.csv absent; external_torque.csv is the tactile proxy"
+      ],
+      "usable_for_residual": false
+    },
+    {
+      "episode": "2026-01-13-16-22-00_40deg",
+      "split": "train",
+      "requested_window": [
+        0,
+        242
+      ],
+      "expected_frames": 242,
+      "csv_rows": {
+        "angle.csv": 249,
+        "torque.csv": 249,
+        "external_torque.csv": 249
+      },
+      "csv_widths": {
+        "angle.csv": [
+          18
+        ],
+        "torque.csv": [
+          18
+        ],
+        "external_torque.csv": [
+          18
+        ]
+      },
+      "visual_frames": {
+        "rgb": 249,
+        "sock_mask": 248,
+        "leg_mask": 0,
+        "camera_depth": 248,
+        "sock_depth": 248,
+        "leg_depth": 0
+      },
+      "features_present": false,
+      "errors": [
+        "depth_mask/leg_depth: 0 frames do not cover requested end=242"
+      ],
+      "warnings": [
+        "features incomplete: ['coverage.npy', 'opening_norm.npy', 'heel_norm.npy', 'toe_norm.npy', 'foot_length.npy', 'features_ok.npy']",
+        "touch.csv absent; external_torque.csv is the tactile proxy"
+      ],
+      "usable_for_residual": false
+    },
+    {
+      "episode": "2026-01-13-16-24-19_40deg",
+      "split": "train",
+      "requested_window": [
+        10,
+        252
+      ],
+      "expected_frames": 242,
+      "csv_rows": {
+        "angle.csv": 270,
+        "torque.csv": 270,
+        "external_torque.csv": 270
+      },
+      "csv_widths": {
+        "angle.csv": [
+          18
+        ],
+        "torque.csv": [
+          18
+        ],
+        "external_torque.csv": [
+          18
+        ]
+      },
+      "visual_frames": {
+        "rgb": 271,
+        "sock_mask": 270,
+        "leg_mask": 0,
+        "camera_depth": 270,
+        "sock_depth": 270,
+        "leg_depth": 0
+      },
+      "features_present": false,
+      "errors": [
+        "depth_mask/leg_depth: 0 frames do not cover requested end=252"
+      ],
+      "warnings": [
+        "features incomplete: ['coverage.npy', 'opening_norm.npy', 'heel_norm.npy', 'toe_norm.npy', 'foot_length.npy', 'features_ok.npy']",
+        "touch.csv absent; external_torque.csv is the tactile proxy"
+      ],
+      "usable_for_residual": false
+    },
+    {
+      "episode": "2026-01-13-16-31-51_40deg",
+      "split": "train",
+      "requested_window": [
+        10,
+        252
+      ],
+      "expected_frames": 242,
+      "csv_rows": {
+        "angle.csv": 269,
+        "torque.csv": 269,
+        "external_torque.csv": 269
+      },
+      "csv_widths": {
+        "angle.csv": [
+          18
+        ],
+        "torque.csv": [
+          18
+        ],
+        "external_torque.csv": [
+          18
+        ]
+      },
+      "visual_frames": {
+        "rgb": 269,
+        "sock_mask": 268,
+        "leg_mask": 0,
+        "camera_depth": 268,
+        "sock_depth": 268,
+        "leg_depth": 0
+      },
+      "features_present": false,
+      "errors": [
+        "depth_mask/leg_depth: 0 frames do not cover requested end=252"
+      ],
+      "warnings": [
+        "features incomplete: ['coverage.npy', 'opening_norm.npy', 'heel_norm.npy', 'toe_norm.npy', 'foot_length.npy', 'features_ok.npy']",
+        "touch.csv absent; external_torque.csv is the tactile proxy"
+      ],
+      "usable_for_residual": false
+    },
+    {
+      "episode": "2026-01-13-16-43-38_50deg",
+      "split": "train",
+      "requested_window": [
+        0,
+        242
+      ],
+      "expected_frames": 242,
+      "csv_rows": {
+        "angle.csv": 247,
+        "torque.csv": 247,
+        "external_torque.csv": 247
+      },
+      "csv_widths": {
+        "angle.csv": [
+          18
+        ],
+        "torque.csv": [
+          18
+        ],
+        "external_torque.csv": [
+          18
+        ]
+      },
+      "visual_frames": {
+        "rgb": 248,
+        "sock_mask": 247,
+        "leg_mask": 0,
+        "camera_depth": 247,
+        "sock_depth": 247,
+        "leg_depth": 0
+      },
+      "features_present": false,
+      "errors": [
+        "depth_mask/leg_depth: 0 frames do not cover requested end=242"
+      ],
+      "warnings": [
+        "features incomplete: ['coverage.npy', 'opening_norm.npy', 'heel_norm.npy', 'toe_norm.npy', 'foot_length.npy', 'features_ok.npy']",
+        "touch.csv absent; external_torque.csv is the tactile proxy"
+      ],
+      "usable_for_residual": false
+    },
+    {
+      "episode": "2026-01-13-18-21-09_50deg",
+      "split": "train",
+      "requested_window": [
+        0,
+        242
+      ],
+      "expected_frames": 242,
+      "csv_rows": {
+        "angle.csv": 243,
+        "torque.csv": 243,
+        "external_torque.csv": 243
+      },
+      "csv_widths": {
+        "angle.csv": [
+          18
+        ],
+        "torque.csv": [
+          18
+        ],
+        "external_torque.csv": [
+          18
+        ]
+      },
+      "visual_frames": {
+        "rgb": 244,
+        "sock_mask": 243,
+        "leg_mask": 0,
+        "camera_depth": 243,
+        "sock_depth": 243,
+        "leg_depth": 0
+      },
+      "features_present": false,
+      "errors": [
+        "depth_mask/leg_depth: 0 frames do not cover requested end=242"
+      ],
+      "warnings": [
+        "features incomplete: ['coverage.npy', 'opening_norm.npy', 'heel_norm.npy', 'toe_norm.npy', 'foot_length.npy', 'features_ok.npy']",
+        "touch.csv absent; external_torque.csv is the tactile proxy"
+      ],
+      "usable_for_residual": false
+    },
+    {
+      "episode": "2026-01-13-18-23-17_50deg",
+      "split": "train",
+      "requested_window": [
+        10,
+        252
+      ],
+      "expected_frames": 242,
+      "csv_rows": {
+        "angle.csv": 266,
+        "torque.csv": 266,
+        "external_torque.csv": 266
+      },
+      "csv_widths": {
+        "angle.csv": [
+          18
+        ],
+        "torque.csv": [
+          18
+        ],
+        "external_torque.csv": [
+          18
+        ]
+      },
+      "visual_frames": {
+        "rgb": 266,
+        "sock_mask": 265,
+        "leg_mask": 0,
+        "camera_depth": 265,
+        "sock_depth": 265,
+        "leg_depth": 0
+      },
+      "features_present": false,
+      "errors": [
+        "depth_mask/leg_depth: 0 frames do not cover requested end=252"
+      ],
+      "warnings": [
+        "features incomplete: ['coverage.npy', 'opening_norm.npy', 'heel_norm.npy', 'toe_norm.npy', 'foot_length.npy', 'features_ok.npy']",
+        "touch.csv absent; external_torque.csv is the tactile proxy"
+      ],
+      "usable_for_residual": false
+    },
+    {
+      "episode": "2026-01-13-14-38-29_30deg",
+      "split": "test",
+      "requested_window": [
+        20,
+        262
+      ],
+      "expected_frames": 242,
+      "csv_rows": {
+        "angle.csv": 279,
+        "torque.csv": 279,
+        "external_torque.csv": 279
+      },
+      "csv_widths": {
+        "angle.csv": [
+          18
+        ],
+        "torque.csv": [
+          18
+        ],
+        "external_torque.csv": [
+          18
+        ]
+      },
+      "visual_frames": {
+        "rgb": 279,
+        "sock_mask": 278,
+        "leg_mask": 0,
+        "camera_depth": 278,
+        "sock_depth": 278,
+        "leg_depth": 0
+      },
+      "features_present": false,
+      "errors": [
+        "depth_mask/leg_depth: 0 frames do not cover requested end=262"
+      ],
+      "warnings": [
+        "features incomplete: ['coverage.npy', 'opening_norm.npy', 'heel_norm.npy', 'toe_norm.npy', 'foot_length.npy', 'features_ok.npy']",
+        "touch.csv absent; external_torque.csv is the tactile proxy"
+      ],
+      "usable_for_residual": false
+    },
+    {
+      "episode": "2026-01-13-16-29-11_40deg",
+      "split": "test",
+      "requested_window": [
+        20,
+        262
+      ],
+      "expected_frames": 242,
+      "csv_rows": {
+        "angle.csv": 285,
+        "torque.csv": 285,
+        "external_torque.csv": 285
+      },
+      "csv_widths": {
+        "angle.csv": [
+          18
+        ],
+        "torque.csv": [
+          18
+        ],
+        "external_torque.csv": [
+          18
+        ]
+      },
+      "visual_frames": {
+        "rgb": 286,
+        "sock_mask": 285,
+        "leg_mask": 0,
+        "camera_depth": 285,
+        "sock_depth": 285,
+        "leg_depth": 0
+      },
+      "features_present": false,
+      "errors": [
+        "depth_mask/leg_depth: 0 frames do not cover requested end=262"
+      ],
+      "warnings": [
+        "features incomplete: ['coverage.npy', 'opening_norm.npy', 'heel_norm.npy', 'toe_norm.npy', 'foot_length.npy', 'features_ok.npy']",
+        "touch.csv absent; external_torque.csv is the tactile proxy"
+      ],
+      "usable_for_residual": false
+    }
+  ],
+  "n_episodes": 11,
+  "n_usable": 0,
+  "n_errors": 11,
+  "n_warnings": 22
+}

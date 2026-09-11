@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+artifacts/checkpoints/
+artifacts/predictions/
+artifacts/runs/
